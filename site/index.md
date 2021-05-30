@@ -5,7 +5,7 @@
 	<title>HEllO COURSERA</title>
 </head>
 <body>
-<h1>hello courser!</h1>
-
+<h1>hello coursera!</h1>
+Welcome to our page
 </body>
 </html>
